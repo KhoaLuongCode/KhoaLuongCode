@@ -1,6 +1,6 @@
 # Hi, I'm Khoa! 👋
 
-I'm a junior majoring in Computer Science at Case Western Reserve University. This is where I store most of my code from personal projects and school work.
+I'm a junior majoring in Computer Science at Case Western Reserve University. This is where I store most of my code from personal projects and school work. I love to build stuff and very interested in startups. 
 
 ## Languages and Tools
 
