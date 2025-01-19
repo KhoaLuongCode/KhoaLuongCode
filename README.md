@@ -18,5 +18,5 @@ I'm a junior majoring in Computer Science at Case Western Reserve University. Th
 
 ## About Me
 
-- I'm currently working with my two close friends to build Vocally, an AI-powered tech interview platform, reading more about system design (DDIA), and learning Koitlin/Swift
+- I'm currently working with my two close friends to build Vocally, an AI-powered tech interview platform, reading more about system design (DDIA), and learning Kotlin/Swift
 - How to reach me: [khoamluong@gmail.com](mailto:your_email@example.com)
